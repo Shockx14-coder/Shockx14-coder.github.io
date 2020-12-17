@@ -1,0 +1,78 @@
+.HeaderBox {
+	width: 1040px;
+	height: 20px;
+	
+}
+.navbar a {
+	float: right;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	padding: 18px 30px;
+	text-decoration: none;
+	font-family: Roboto;
+  }
+.navbar a:hover {
+	background-color: #1F354C;
+  }
+.body{
+	background-image: url(/images/DiEQ_S3U8AIBpDr.jpg);
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: center;
+	height: 100%;
+	background-color: #1F354C;
+
+}
+.boxOne{
+	width: 350px;
+	height: 434px;
+	border-radius: 25px;
+	background-color: #1D2E42;
+	position: absolute;
+	left: 1000px;
+	top: 130px;
+
+}
+.boxOne p {
+	/* The code below has bugs!!*/
+	position: absolute;
+	width: 350px;
+	height: 465px;
+	left: 30px;
+	top: 22px;						
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	line-height: 53px;
+
+	color: #E7E8EF;
+}
+.boxOne h1 {
+	position: absolute;
+	width: 350px;
+	height: 465px;
+	left: 30px;
+	top: 200px;						
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	line-height: 53px;
+
+	color: #E7E8EF;
+}
+
+.colorpane{
+	width: 400px;
+	height: 500px;
+	position: relative;
+	left: 500px;
+	top: 3000px;
+	background-color: grey;
+}
+/* Reminder the width bug needs to be fixed*/
